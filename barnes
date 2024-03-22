@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<microblogging_site>
+    <users>
+        <user>
+            <username>user1</username>
+            <name>John Doe</name>
+            <age>30</age>
+        </user>
+        <user>
+            <username>user2</username>
+            <name>Jane Smith</name>
+            <age>25</age>
+        </user>
+    </users>
+    <posts>
+        <post>
+            <author>user1</author>
+            <content>Hello world!</content>
+            <timestamp>2024-03-22T12:00:00</timestamp>
+        </post>
+        <post>
+            <author>user2</author>
+            <content>Great day today!</content>
+            <timestamp>2024-03-22T12:30:00</timestamp>
+        </post>
+        <post>
+            <author>user1</author>
+            <content>Feeling happy!</content>
+            <timestamp>2024-03-22T13:00:00</timestamp>
+        </post>
+    </posts>
+</microblogging_site>
